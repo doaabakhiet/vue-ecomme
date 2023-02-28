@@ -1,4 +1,5 @@
 # vueecommerce
+using api firebase for Api
 
 ## Project setup
 ```
